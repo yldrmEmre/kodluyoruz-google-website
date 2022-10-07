@@ -1,4 +1,1 @@
-
-# Ödev 2
-
-## Google Ana Sayfasını Tasarlamak
+# Google Ana Sayfasını Tasarlamak
